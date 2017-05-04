@@ -1,0 +1,37 @@
+body{
+  background-color: #f7a922;
+}
+
+header {
+text-align: center;
+position: fixed;
+top: 0;
+right:0;
+left:0;
+font-family: 'Ubuntu', sans-serif;
+background-color: #B1740F;
+}
+
+footer {
+background-color: #B1740F;
+text-align: center;
+font-family: 'Ubuntu', sans-serif;
+position: fixed;
+bottom: 0;
+right: 0;
+left: 0;
+}
+main {
+background-color: #FFD07B;
+width: 700px;
+margin: auto;
+padding-top: 50px;
+text-align: left;
+
+font-family: 'Ubuntu', sans-serif;
+}
+
+.inner{
+
+
+}
