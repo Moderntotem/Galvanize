@@ -24,14 +24,24 @@ left: 0;
 main {
 background-color: #FFD07B;
 width: 700px;
+height: 100%;
 margin: auto;
 padding-top: 50px;
 text-align: left;
-
+padding-left: 5px;
 font-family: 'Ubuntu', sans-serif;
 }
-
-.inner{
-
-
+a:hover{
+color: #FFD07B;
+text-decoration: none;
+}
+a:link{
+  text-decoration: none;
+}
+#footerbar{
+  color: #FFD07B;
+}
+#gif.center{
+  display: block;
+  margin: auto;
 }
